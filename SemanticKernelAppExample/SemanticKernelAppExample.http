@@ -7,3 +7,5 @@ Content-Type: application/json
     "input": "Fenerbahçe'nin futbol takımı kaç kez Süper Lig şampiyonu oldu?"
 }
 ###
+
+GET {{SemanticKernelAppExample_HostAddress}}/add/3/5
