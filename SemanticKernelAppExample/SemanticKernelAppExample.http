@@ -1,0 +1,9 @@
+@SemanticKernelAppExample_HostAddress = http://localhost:5147
+
+POST {{SemanticKernelAppExample_HostAddress}}/chat/
+Content-Type: application/json
+
+{
+    "input": "Fenerbahçe'nin futbol takımı kaç kez Süper Lig şampiyonu oldu?"
+}
+###
